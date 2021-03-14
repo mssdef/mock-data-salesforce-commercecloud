@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns="http://www.demandware.com/xml/impex/customer/2006-10-31">
+    <customer customer-no="00008507">
+        <credentials>
+            <login>u511+23762387469@null.com</login>
+            <password encrypted="true" encryptionScheme="scrypt">$s0$b0401$y35uqVt9bSvfrE5knjNJPQ==$RtUEe6Vur3YNZLUbJR2U5DZ61KHFCsArjoem+fYKAwQ=</password>
+            <enabled-flag>true</enabled-flag>
+            <password-question/>
+            <password-answer/>
+        </credentials>
+        <profile>
+            <salutation/>
+            <title/>
+            <first-name>andre</first-name>
+            <second-name/>
+            <last-name>tester</last-name>
+            <suffix/>
+            <company-name/>
+            <job-title/>
+            <email>tarastests+202012245@gmail.com</email>
+            <phone-home>3333333333</phone-home>
+            <phone-business/>
+            <phone-mobile/>
+            <fax/>
+            <creation-date>2020-12-24T12:58:08.000Z</creation-date>
+            <last-login-time>2020-12-24T12:58:08.000Z</last-login-time>
+            <last-visit-time>2020-12-24T12:58:08.000Z</last-visit-time>
+            <preferred-locale/>
+            <custom-attributes>
+                <custom-attribute attribute-id="subscribed">true</custom-attribute>
+            </custom-attributes>
+        </profile>
+        <addresses>
+            <address address-id="address - city - 34543" preferred="true">
+                <salutation/>
+                <title/>
+                <first-name>tr5</first-name>
+                <second-name/>
+                <last-name>tr5</last-name>
+                <suffix/>
+                <company-name/>
+                <job-title/>
+                <address1>address</address1>
+                <address2/>
+                <suite/>
+                <postbox/>
+                <city>city</city>
+                <postal-code>34543</postal-code>
+                <state-code>IA</state-code>
+                <country-code>US</country-code>
+                <phone>3333333333</phone>
+            </address>
+        </addresses>
+        <note/>
+    </customer>
+</customers>
+
