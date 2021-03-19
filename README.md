@@ -5,4 +5,8 @@
 `git clone`
 
 # Run
-`PPFILE="customers.xml"; php ./generate.php > $PPFILE; zip customers.zip $PPFILE`
+`N="1";PPFILE="customers"; php ./generateCustomers.php > $PPFILE$N.xml; zip $PPFILE.zip $PPFILE$N.xml`
+
+`N="1";PPFILE="products"; php ./generateProducts.php > $PPFILE$N.xml; zip $PPFILE.zip $PPFILE$N.xml`
+
+`N="1";PPFILE="orders"; php ./generateOrders.php > $PPFILE$N.xml; zip $PPFILE.zip $PPFILE$N.xml`
