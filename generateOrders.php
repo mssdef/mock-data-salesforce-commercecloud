@@ -2,7 +2,7 @@
 
 require 'SimpleDOM.php';
 
-$duplicates = 300;
+$duplicates = 30000;
 $thing = simpledom_load_string(file_get_contents('template-orders.xml'));
 
 for ($counter = 1; $counter <= $duplicates; $counter++) {
