@@ -1,4 +1,6 @@
-## Generate Mock/Fake XML data for import into Salesforce CommmerCloud
+## Generate Test/Fake XML data for import into Salesforce CommmerceCloud
+Project goal to generate 200K customers, 200K orders and 200K products in 
+Salesforce CommmerceCloud database.
 
 
 # Install
